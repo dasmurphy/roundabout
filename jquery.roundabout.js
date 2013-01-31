@@ -63,7 +63,7 @@
 		tilt: 0.0,
 		minZ: 100,
 		maxZ: 280,
-		minOpacity: 0.4,
+		minOpacity: 1.0,
 		maxOpacity: 1.0,
 		minScale: 0.4,
 		maxScale: 1.0,
